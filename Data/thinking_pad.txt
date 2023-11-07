@@ -1,0 +1,20 @@
+       GS 1 GS 2 GS 3 GS 4
+
+Topic 1
+Topic 2
+Topic 3 
+Topic 4
+Topic 5
+Topic 6
+
+PYQ data sourced from mrunal:https://docs.google.com/spreadsheets/d/1qFOWytMMq9mKmwkKSUQupoGQGkL5HxaNmkAoBrRC0qk/edit#gid=1678574569
+
+relevance score for top 2 topics for each subject and thresholding of the values
+
+
+rustup in d drive install it
+Historical Analysis
+Analysis of ES
+Analysis of Budget
+legislation lacunae finder
+Govt scheme analysis portal
